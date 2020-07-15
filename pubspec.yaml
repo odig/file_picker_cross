@@ -19,9 +19,9 @@ dependencies:
   file_chooser:
     git:
       url: git://github.com/google/flutter-desktop-embedding.git
+      path: plugins/file_chooser
       ref: master
-      path: plugins/file_chooser/
-
+      
 dev_dependencies:
   flutter_test:
     sdk: flutter
